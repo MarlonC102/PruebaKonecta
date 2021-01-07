@@ -1,0 +1,2 @@
+Para que la aplicación funciones se debe de editar las credenciales para la conexión a base de datos que están en Model -> ConexionDB.php editarlas según las credenciales de su equipo.
+Tambien se debe cargar la base de datos el nombre es prueba.SQL
